@@ -22,7 +22,6 @@ I love transforming ideas into efficient, user-friendly digital solutions.
 
 ### 📫 Connect With Me
 - 💼 **LinkedIn:** [Salman Pathan](https://www.linkedin.com/in/salman-pathan-5a6a682a6)  
-- 🌐 **Portfolio:** [developer_portfolio_single_file_html.html](file:///C:/Users/Salman/Downloads/developer_portfolio_single_file_html.html#projects)  
 - 📧 **Email:** [Salmanpathan30261@gmail.com](mailto:Salmanpathan30261@gmail.com)  
 - 🐙 **GitHub:** [salmanpathan30261-cmyk](https://github.com/salmanpathan30261-cmyk)  
 
